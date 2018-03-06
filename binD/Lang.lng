@@ -1,0 +1,21 @@
+[CHN_SIM]   
+version=1.0.0
+sbtnOK =确定
+sbtnCancel =取消
+sbtnApply =应用
+sbtnHelp =帮助
+
+[ENG]   
+version=Denoise Tool 1.0.0
+sbtnOK =OK
+sbtnCancel =Cancel
+sbtnApply =Apply
+sbtnHelp =Help
+
+
+[CHN_TRI]    
+version=降噪工具1.0.0
+sbtnOK =絋﹚
+sbtnCancel =
+sbtnApply =莱ノ
+sbtnHelp =腊

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<Window size="780,528" caption="0,0,0,30" sizebox="4,4,4,4" disabledfontcolor="#FFe1e1e1">    
+	 <Font id="0" name="宋体" size="12" bold="false"/>  
+	 <Font id="1" name="宋体" size="12" bold="true"/>
+	 <Font id="2" name="宋体" size="14" bold="true"/> 
+	 <Font id="3" name="宋体" size="14" bold="false"/>
+	 <Font id="4" name="宋体" size="13" bold="true"/> 
+	 <Font id="5" name="宋体" size="13" bold="false"/>
+	 <Default name="VScrollBar" value="button1normalimage=&quot;file='scroll.png' source='0,0,16,16'&quot; button1hotimage=&quot;file='scroll.png' source='0,0,16,16' mask='#FFFF00FF'&quot; button1pushedimage=&quot;file='scroll.png' source='0,16,16,32' mask='#FFFF00FF'&quot; button1disabledimage=&quot;file='scroll.png' source='0,0,16,16' mask='#FFFF00FF'&quot; button2normalimage=&quot;file='scroll.png' source='0,32,16,48' mask='#FFFF00FF'&quot; button2hotimage=&quot;file='scroll.png' source='0,32,16,48' mask='#FFFF00FF'&quot; button2pushedimage=&quot;file='scroll.png' source='0,48,16,64' mask='#FFFF00FF'&quot; button2disabledimage=&quot;file='scroll.png' source='0,32,16,48' mask='#FFFF00FF'&quot; thumbnormalimage=&quot;file='scroll.png' source='0,64,16,80' corner='2,2,2,2' mask='#FFFF00FF'&quot; thumbhotimage=&quot;file='scroll.png' source='0,64,16,80' corner='2,2,2,2' mask='#FFFF00FF'&quot; thumbpushedimage=&quot;file='scroll.png' source='0,64,16,80' corner='2,2,2,2' mask='#FFFF00FF'&quot; thumbdisabledimage=&quot;file='scroll.png' source='0,64,16,80' corner='2,2,2,2' mask='#FFFF00FF'&quot; railnormalimage=&quot;file='scroll.png' source='0,80,16,96' corner='2,2,2,2' mask='#FFFF00FF'&quot; railhotimage=&quot;file='scroll.png' source='0,80,16,96' corner='2,2,2,2' mask='#FFFF00FF'&quot; railpushedimage=&quot;file='scroll.png' source='0,96,16,112' corner='2,2,2,2' mask='#FFFF00FF'&quot; raildisabledimage=&quot;file='scroll.png' source='0,80,16,96' corner='2,2,2,2' mask='#FFFF00FF'&quot; bknormalimage=&quot;file='scroll.png' source='0,128,16,146' corner='2,2,2,2' mask='#FFFF00FF'&quot; bkhotimage=&quot;file='scroll.png' source='0,128,16,146' corner='2,2,2,2' mask='#FFFF00FF'&quot; bkpushedimage=&quot;file='scroll.png' source='0,128,16,146' corner='2,2,2,2' mask='#FFFF00FF'&quot; bkdisabledimage=&quot;file='scroll.png' source='0,128,16,146' corner='2,2,2,2' mask='#FFFF00FF'&quot; " /> 
+   <Default name="HScrollBar" value="button1normalimage=&quot;file='scroll_hor.png' source='0,0,16,16'&quot; button1hotimage=&quot;file='scroll_hor.png' source='0,0,16,16' mask='#FFFF00FF'&quot; button1pushedimage=&quot;file='scroll_hor.png' source='16,0,32,16' mask='#FFFF00FF'&quot; button1disabledimage=&quot;file='scroll_hor.png' source='0,0,16,16' mask='#FFFF00FF'&quot; button2normalimage=&quot;file='scroll_hor.png' source='32,0,48,16' mask='#FFFF00FF'&quot; button2hotimage=&quot;file='scroll_hor.png' source='32,0,48,16' mask='#FFFF00FF'&quot; button2pushedimage=&quot;file='scroll_hor.png' source='48,0,64,16' mask='#FFFF00FF'&quot; button2disabledimage=&quot;file='scroll_hor.png' source='32,0,48,16' mask='#FFFF00FF'&quot; thumbnormalimage=&quot;file='scroll_hor.png' source='64,0,80,16' corner='2,2,2,2' mask='#FFFF00FF'&quot; thumbhotimage=&quot;file='scroll_hor.png' source='64,0,80,16' corner='2,2,2,2' mask='#FFFF00FF'&quot; thumbpushedimage=&quot;file='scroll_hor.png' source='64,0,80,16' corner='2,2,2,2' mask='#FFFF00FF'&quot; thumbdisabledimage=&quot;file='scroll_hor.png' source='64,0,80,16' corner='2,2,2,2' mask='#FFFF00FF'&quot; railnormalimage=&quot;file='scroll_hor.png' source='80,0,96,16' corner='2,2,2,2' mask='#FFFF00FF'&quot; railhotimage=&quot;file='scroll_hor.png' source='80,0,96,16' corner='2,2,2,2' mask='#FFFF00FF'&quot; railpushedimage=&quot;file='scroll_hor.png' source='96,0,112,16' corner='2,2,2,2' mask='#FFFF00FF'&quot; raildisabledimage=&quot;file='scroll_hor.png' source='80,0,96,16' corner='2,2,2,2' mask='#FFFF00FF'&quot; bknormalimage=&quot;file='scroll_hor.png' source='128,0,146,16' corner='2,2,2,2' mask='#FFFF00FF'&quot; bkhotimage=&quot;file='scroll_hor.png' source='128,0,146,16' corner='2,2,2,2' mask='#FFFF00FF'&quot; bkpushedimage=&quot;file='scroll_hor.png' source='128,0,146,16' corner='2,2,2,2' mask='#FFFF00FF'&quot; bkdisabledimage=&quot;file='scroll_hor.png' source='128,0,146,16' corner='2,2,2,2' mask='#FFFF00FF'&quot; " /> 
+    <VerticalLayout bkcolor="#FFf0f0f0" >
+        <HorizontalLayout height="38" bkcolor="#FF25cf35" name="title_hor">
+            <HorizontalLayout >
+        				<Control width="10"/>
+        				<Label width="10" height="34" bkimage="logo.png"/>
+        				<Label name="version_label" textcolor="#FFFFFFFF" text="" font="4" padding="8,0,0,0"/>
+      			</HorizontalLayout>
+            <HorizontalLayout width="113" height="38">
+                <Button name="minbtn" width="25" height="18" padding="0,10,0,0" textcolor="#FF000000" disabledtextcolor="#FFA7A6AA" align="center" normalimage=" file='title/minimize.png' " hotimage=" file='title/minimize_h.png' " />
+                <HorizontalLayout visible="true" padding="10,10,0,0" width="25">
+                	<Button name="maxbtn" enabled="true" width="25" height="18" textcolor="#FF000000" disabledtextcolor="#FFA7A6AA" align="center" normalimage=" file='title/maximize.png' " hotimage=" file='title/maximize_h.png' " pushedimage=" file='title/maximize_p.png' " />
+                	<Button name="restorebtn" visible="false" width="25" height="18" textcolor="#FF000000" disabledtextcolor="#FFA7A6AA" align="center" normalimage=" file='title/restore.png' " hotimage=" file='title/restore_h.png' " pushedimage=" file='title/restore_p.png' " />
+               	</HorizontalLayout>
+                <Button name="closebtn" width="43" height="18" padding="10,10,0,0" textcolor="#FF000000" disabledtextcolor="#FFA7A6AA" align="center" normalimage=" file='title/close.png' " hotimage=" file='title/close_h.png' " pushedimage=" file='title/close_p.png' " />
+            </HorizontalLayout>
+        </HorizontalLayout>
+        <Container >    
+        <VerticalLayout bkcolor="#FFe5e5e5" bordercolor="#FF727272">
+	        <HorizontalLayout height="50" bkimage="top_bg.png"> 
+	        		
+		      </HorizontalLayout>     
+	       </VerticalLayout>
+	      </Container>	  
+    </VerticalLayout>
+</Window>
